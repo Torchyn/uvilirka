@@ -161,7 +161,7 @@ a [alt="логотип"] {
 #shopes {
     margin-top: 100px;
     margin-bottom: 120px;
-    background-image: url(./img/bgc2.png);
+    background-image: url(../img/bgc2.png);
     background-size: 100%;
     padding: 100px;
     text-align: center;
@@ -283,7 +283,7 @@ a [alt="логотип"] {
 
 #subscribe {
     margin-top: 150px;
-    background-image: url(./img/bgc2.png);
+    background-image: url(../img/bgc2.png);
     background-size: 100%;
     padding: 110px 400px;
 }
