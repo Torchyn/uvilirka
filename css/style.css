@@ -10,7 +10,7 @@ html {
 
 
 .bgc-header {
-    background-image: url(/img/bgc.jpg);
+    background-image: url(../img/bgc.jpg);
     background-size: 100%;
     margin: 0;
 
